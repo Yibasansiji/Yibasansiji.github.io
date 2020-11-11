@@ -3,7 +3,7 @@
 
 <i class="fas fa-smile"></i> My name is Tang Jieyi. 
 
-<i class="far fa-hand-point-right"></i> 2020 June, received BSc (Eng) with Honours, First Class in Telecommunications Engineering from Beijing University of Posts and Telecommunications.
+<i class="far fa-hand-point-right"></i> 2020 June, received BSc (Eng) with Honours, First Class in Telecommunications Engineering with Management from Beijing University of Posts and Telecommunications.
 
 <i class="fas fa-coffee"></i> Got offer from King's College London for 2021 fall postgraduate study.
 
