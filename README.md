@@ -5,7 +5,7 @@
 
 <i class="far fa-hand-point-right"></i> 2020 June, received BSc (Eng) with Honours, First Class in Telecommunications Engineering with Management from Beijing University of Posts and Telecommunications.
 
-<i class="fas fa-coffee"></i> Got offer from King's College London for 2021 fall postgraduate study.
+<i class="fas fa-coffee"></i> Got offer from Imperial College London for 2021 fall postgraduate study.
 
 <i class="fas fa-hands-helping"></i> Seeking an internship opportunity in product management field.
 
